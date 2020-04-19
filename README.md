@@ -1,2 +1,3 @@
-# project4
-Четвёртый проект по программированию первый семестр 2019
+The tool to solve the easiest economic tasks.
+
+(learning loops)
